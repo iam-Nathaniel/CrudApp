@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Samsung",
+      "category": "Electronic",
+      "freshness": "New",
+      "price": 500,
+      "comment": "hi",
+      "date": "2022-08-15T00:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "watch",
+      "category": "Electronic",
+      "freshness": "Used",
+      "price": 1000,
+      "comment": "hio",
+      "date": "2022-08-17T00:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
