@@ -17,6 +17,42 @@
       "comment": "hio",
       "date": "2022-08-17T00:00:00.000Z",
       "id": 2
+    },
+    {
+      "productName": "dashiki",
+      "category": "Clothing",
+      "freshness": "New",
+      "price": 200,
+      "comment": "hkjk",
+      "date": "2022-08-12T00:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "hoodie",
+      "category": "Clothing",
+      "freshness": "New",
+      "price": 200,
+      "comment": "hkjk",
+      "date": "2022-08-12T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "iphone",
+      "category": "Electronic",
+      "freshness": "New",
+      "price": 3000,
+      "comment": "",
+      "date": "2022-08-10T00:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "cool",
+      "category": "Clothing",
+      "freshness": "Used",
+      "price": 3434,
+      "comment": "asdf",
+      "date": "2022-08-20T00:00:00.000Z",
+      "id": 7
     }
   ],
   "comments": [

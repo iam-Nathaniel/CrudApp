@@ -22,6 +22,6 @@ mat-form-field {
   padding: 2px;
  
 }
-button#primary{
-   margin-right: 10px;
+button.primary{
+   margin-left: 10px;
 }

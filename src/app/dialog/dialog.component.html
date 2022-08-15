@@ -47,8 +47,8 @@
     </form>
     
     <div class="dialogButton" mat-dialog-action [align]="'end'">
-        <button mat-flat-button color="primary" id="primary" (click)="addProduct()">Save</button>
-        <button mat-stroked-button color="warn">Close</button>
+        <button mat-stroked-button color="warn" (click)="closeDialog()">Close</button>
+        <button mat-flat-button color="primary" class="primary" (click)="addProduct()"> {{actionBtn}} </button>
     </div>
 
 </div>   
